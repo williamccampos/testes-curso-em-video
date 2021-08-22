@@ -1,2 +1,2 @@
-# testes-cruso-em-video
+# testes-curso-em-video
 Testes de Curso Java
