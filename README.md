@@ -1,2 +1,2 @@
-# testes-curso-em-video
+# TESTES PRÁTICOS JAVA
 Testes de Curso Java
